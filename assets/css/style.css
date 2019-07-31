@@ -83,5 +83,8 @@ body {
     #timer {
         flex-direction: column;
     }
+    #time {
+        margin-right: 0;
+    }
 
 }
